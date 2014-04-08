@@ -1,0 +1,13 @@
+{
+    "name": "angular-big",
+    "version": "0.0.0",
+    "authors": [
+        "Terrence Howard <chemisus@gmail.com>"
+    ],
+    "license": "MIT",
+    "dependencies": {
+        "angular": "*",
+        "angular-mocks": "*",
+        "big.js": "*"
+    }
+}
