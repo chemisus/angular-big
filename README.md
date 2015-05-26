@@ -12,8 +12,8 @@ bower install angular-big
 
 Include js files in html:
 ```
-<script src="bower_components/big.js/big.min.js">
-<script src="bower_components/angular-big/dist/angular-big.js">
+<script src="bower_components/big.js/big.min.js"></script>
+<script src="bower_components/angular-big/dist/angular-big.js"></script>
 ```
 
 Mark `Big` as a dependency in your application:
